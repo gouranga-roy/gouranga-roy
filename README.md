@@ -52,7 +52,7 @@ You can check out my personal portfolio https://gouranga-roy.github.io/me/
 
 ## 🖼️ Featured Image
 
-(https://www.future-processing.com/blog/wp-content/uploads/2022/11/What-is-green-coding-a-contribution-to-saving-the-environment-to-publish-22.11.jpg)
+![Portfolio Banner]([https://github.com/your-username/your-username/blob/main/banner.jpg?raw=true](https://www.future-processing.com/blog/wp-content/uploads/2022/11/What-is-green-coding-a-contribution-to-saving-the-environment-to-publish-22.11.jpg))
 
 ---
 
