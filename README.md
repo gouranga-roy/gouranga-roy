@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Gouranga Roy — WordPress & Web Developer
 
-Welcome to my GitHub profile! I’m a passionate developer focused on building custom WordPress themes, WooCommerce stores, and Laravel applications that are fast, secure, and scalable.
+Welcome to my GitHub profile! I’m a passionate developer focused on building Custom WordPress themes, ACF Pro WooCommerce stores, and Laravel applications that are fast, secure, and scalable high-performance websites tailored to meet modern business needs.
 
 ## 🚀 My Skills
 
@@ -8,8 +8,8 @@ Welcome to my GitHub profile! I’m a passionate developer focused on building c
 - ✅ Elementor & Advanced Custom Fields (ACF)  
 - ✅ WooCommerce Store Setup & Optimization  
 - ✅ PHP & Laravel Web Applications  
+- ✅ MySQL, REST APIs
 - ✅ HTML5, CSS3, JavaScript, jQuery  
-- ✅ MySQL, REST APIs  
 - ✅ Git, GitHub & Deployment
 
 ## 🛠️ Tools & Technologies
@@ -32,6 +32,7 @@ Welcome to my GitHub profile! I’m a passionate developer focused on building c
 
 You can check out my personal portfolio https://gouranga-roy.github.io/me/
 > I’ve worked on custom WordPress sites Elementor Pro, dynamic Laravel apps, and eCommerce solutions with WooCommerce.
+> My expertise includes developing custom WordPress themes, advanced WooCommerce integration, and full Elementor Pro customization. I also work extensively with ACF Pro to create dynamic, easy-to-manage content systems that give clients full control over their sites—without writing a single line of code.
 
 ## 📈 GitHub Stats
 
