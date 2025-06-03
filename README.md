@@ -52,7 +52,7 @@ You can check out my personal portfolio https://gouranga-roy.github.io/me/
 
 ## 🖼️ Featured Image
 
-![Portfolio Banner](https://yourdomain.com/path-to-your-image.jpg)
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.future-processing.com%2Fblog%2Fwhat-is-green-coding-a-contribution-to-save-the-environment%2F&psig=AOvVaw2VoVpk1M1s-vc4gzE05fmX&ust=1749038310205000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwjCj9nKmdWNAxXuS2wGHZfbFAMQjRx6BAgAEBk
 
 ---
 
