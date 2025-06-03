@@ -59,3 +59,6 @@ You can check out my personal portfolio https://gouranga-roy.github.io/me/
 > "Code is not just code—it's the bridge between ideas and impact."
 
 Thanks for visiting! Feel free to explore my repos or connect with me!
+
+
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="HORIZONTAL" data-vanity="gourangaroy831" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://bd.linkedin.com/in/gourangaroy831?trk=profile-badge">Gouranga Roy</a></div>
