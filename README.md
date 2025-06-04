@@ -53,7 +53,7 @@ You can check out my personal portfolio https://gouranga-roy.github.io/me/
 
 ## 🖼️ Featured Image
 
-![Portfolio Banner](https://assets.techrepublic.com/uploads/2022/07/top-ide-software.jpeg)
+![Portfolio Banner](https://media.licdn.com/dms/image/v2/D5616AQH6rVcWMWC5zQ/profile-displaybackgroundimage-shrink_350_1400/B56Zb8Jj2pHUAY-/0/1747987087978?e=1754524800&v=beta&t=E31MSEYg2mSuSdlq0o-TGHrfRSzTvaexP2DZbysEBLE)
 
 ---
 
