@@ -1,3 +1,4 @@
+![Portfolio Banner](https://assets.techrepublic.com/uploads/2022/07/top-ide-software.jpeg)
 # 👋 Hi there, I'm Gouranga Roy — WordPress & Web Developer
 
 Welcome to my GitHub profile! I’m a passionate developer focused on building Custom WordPress themes Development, ACF Pro WooCommerce stores, and Laravel applications that are fast, secure, and scalable high-performance websites tailored to meet modern business needs.
