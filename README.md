@@ -62,4 +62,4 @@ You can check out my personal portfolio https://gouranga-roy.github.io/me/
 Thanks for visiting! Feel free to explore my repos or connect with me!
 
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="HORIZONTAL" data-vanity="gourangaroy831" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://bd.linkedin.com/in/gourangaroy831?trk=profile-badge">Gouranga Roy</a></div>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="HORIZONTAL" data-vanity="gourangaroy831" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://about.me/gouranga">Gouranga Roy</a></div>
