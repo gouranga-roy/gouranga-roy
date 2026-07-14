@@ -48,7 +48,7 @@ You can check out my personal portfolio https://gouranga-roy.github.io/me/
 ## 📫 Let’s Connect
 
 - 🌐 Portfolio: https://gouranga-roy.github.io/me/
-- 💼 LinkedIn: https://www.linkedin.com/in/gourangaroy831/
+- 💼 LinkedIn: https://www.linkedin.com/in/gourangaroy/
 - 📧 Email: gourangaroy831@gmail.com
 
 ## 🖼️ Featured Image
